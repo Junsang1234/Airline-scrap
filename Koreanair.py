@@ -48,3 +48,5 @@ else :
     kdriver.find_element(By.ID, "ipt-depature").send_keys(departure)
     kdriver.find_element(By.XPATH, "/html/body/ke-dynamic-modal/div/ke-calendar/div/div/div/div[4]/div/button[2]").click()
 kdriver.find_element(By.ID, "quickbookingOnSearch").click()
+
+# Practice Edit Remove when Read
